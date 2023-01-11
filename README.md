@@ -1,5 +1,7 @@
 #### Notes on Data Centric Computing (work in progress) 
 
+Open Source Data Science and AI Education Resources 
+
 - [Guide to fine-tuning Numpy Performance for Gensim:](https://hitchhikerguide.gitbook.io/gensim_performance/)
 - [Hitchhiker's Guide to Process Analytics:](https://hitchhikerguide.gitbook.io/process-analytics/)
 - Behavior modeling with Machine Learning
