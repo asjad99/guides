@@ -4,7 +4,7 @@ Open Source Data Science and AI Education Resources
 
 - [Guide to fine-tuning Numpy Performance for Gensim:](https://hitchhikerguide.gitbook.io/gensim_performance/)
 - [Hitchhiker's Guide to Process Analytics:](https://hitchhikerguide.gitbook.io/process-analytics/)
-- Behavior modeling with Machine Learning
+- [Deep Reinforcement Learning](https://hitchhikerguide.gitbook.io/reinforcement-learning/)
 - [Hitchhiker's Guide to Data Science:](https://hitchhikerguide.gitbook.io/data-scoem/)
 - [A Technologist's Guide to Startups:](https://www.dropbox.com/s/yc8r3k8ozh3rn5d/5__A_technologist_s_Guide_to_startups_and_Business.pdf?dl=0)
 - Probabilistic Programming
