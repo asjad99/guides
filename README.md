@@ -12,6 +12,7 @@
 - [Agents]() | Coming soon
 - [ML Engineering]() | Coming soon
 - [Data Science]() | Coming soon
+- [System Design and SCIP]() | Coming soon
 
 
 - [Deep Reinforcement Learning](https://hitchhikerguide.gitbook.io/reinforcement-learning/)
