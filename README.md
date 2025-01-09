@@ -3,7 +3,6 @@
 
 #### CS Fundamentals 
 - [CS Concepts](https://github.com/asjad99/myNotes/blob/main/CS%20Fundamentals.md) | List of Fundamental CS Concepts
-
 - [Algorithms]() | Coming soon
 - [Programming Paradigms:](https://hitchhikerguide.gitbook.io/programming-paradigms/)
 - [Nand2Tetris]() |  Coming soon  - Build a computer from scratch
