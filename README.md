@@ -1,5 +1,6 @@
 #### My Notes
 
+- [CS Concepts](https://github.com/asjad99/myNotes/blob/main/CS%20Fundamentals.md) | List of Fundamental CS Concepts
 - [Guide to fine-tuning Numpy Performance for Gensim:](https://hitchhikerguide.gitbook.io/gensim_performance/)
 - [Hitchhiker's Guide to Process Oriented Data Science:](https://hitchhikerguide.gitbook.io/process-analytics/)
 - [A Technologist's Guide to Startups:](https://www.dropbox.com/s/yc8r3k8ozh3rn5d/5__A_technologist_s_Guide_to_startups_and_Business.pdf?dl=0)
