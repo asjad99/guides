@@ -11,6 +11,7 @@
 - [System Design and SCIP]() | Coming soon
 - [Big ideas in Computer Science:](https://hitchhikerguide.gitbook.io/big_ideas_in_cs/) and [Philosophy of CS]() |  Need to Merge 
 - [Graph Algorithms](https://hitchhikerguide.gitbook.io/graphs/)
+- SE: https://news.ycombinator.com/item?id=42686034&utm_source=hackernewsletter&utm_medium=email&utm_term=books 
 
 **Data-Intesive Systems** 
 - [Guide to fine-tuning Numpy Performance for Gensim:](https://hitchhikerguide.gitbook.io/gensim_performance/)
